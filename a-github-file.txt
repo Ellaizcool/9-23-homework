@@ -2,3 +2,4 @@ test file created in github
 add one line locally
 add another line to test
 add one more line after changing parent folder name to "Ella-Jupyter"
+add one more line after closing the terminal
